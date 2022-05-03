@@ -1,4 +1,6 @@
-# About this dataset
+# Dataset about the adoption of winter cover crops at the municipality level for mainland France 
+
+## About this dataset
 
 The dataset included in this repository provides an estimate of winter soil cover before spring-sown crops at municipality level for mainland France for two years (2018 and 2019). These estimates were obtained through the monitoring of all fields with spring-sown crops, declared within the context of the European Common Agricultural Policy. For each of these fields, the soil cover rate during the winter prior to sowing spring crops was estimated from the computation of the Normalized Difference Vegetation Index (NDVI) from multi-spectral images.
 
@@ -31,7 +33,7 @@ Two levels of filters were applied to remove invalid observations. First, for th
 
 Finally, results were aggregated at the municipality level. For each crop and for each municipality, the total area occupied by the crop (in hectares) is specified, as well as three estimates (also in hectares) of the area covered, corresponding to the three NDVI thresholds defined above. For each crop and municipality combination, the given year corresponds to the year of harvest of the following spring crops (e.g. the year 2019 refers to the soil cover in December 2018 and January 2019).
 
-# References 
+## References 
 Two articles based on this dataset have been published: 
 - [Estimation of winter soil cover by vegetation before spring-sown crops for mainland France using multispectral satellite imagery](https://iopscience.iop.org/article/10.1088/1748-9326/ac007c/meta). B Nowak, G Marliac, A Michaud. Environmental Research Letters, 2021.
 - [Soil-climate factors have a greater influence on the presence of winter cover crops than regulatory constraints in France](https://link.springer.com/article/10.1007/s13593-022-00770-y). B Nowak, A Michaud, G Marliac. Agronomy for Sustainable Development, 2022.
