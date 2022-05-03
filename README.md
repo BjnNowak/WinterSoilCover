@@ -5,7 +5,7 @@ The NDVI is especially appropriate for monitoring winter soil cover because, con
 <img src="https://github.com/BjnNowak/WinterSoilCover/blob/main/figures/Figure1.png" alt="Estimation of soil cover by vegetation from the Normalized Difference Vegetation Index (NDVI). Based on the literature, a 50% soil cover corresponds to a threshold NDVI value between 0.45 and 0.59." width="500"/>
 </p>
 
-<div align="center">**Figure 1** *Estimation of soil cover by vegetation from the Normalized Difference Vegetation Index (NDVI). Based on the literature, a 50% soil cover corresponds to a threshold NDVI value between 0.45 and 0.59.*
+<div align="center"><b>Figure 1</b> <i>Estimation of soil cover by vegetation from the Normalized Difference Vegetation Index (NDVI). Based on the literature, a 50% soil cover corresponds to a threshold NDVI value between 0.45 and 0.59.</i>
 </div>
   
 The field was considered covered if NDVI exceeded a given threshold. Soil characteristics, such as colour or moisture, and crop residues influence NDVI measurements, especially in the early stages of crop development, when the soil is still poorly covered. In order to limit these effects, it was therefore considered that soil cover had to exceed 50% for a field to be considered as covered by vegetation. Based on the literature, this corresponds to a threshold NDVI value between 0.45 and 0.59 (Figure 1). Thus, to facilitate the sensitivity and uncertainty analyses that can be performed from this data set, three estimates of winter soil cover are given: a minimum value (corresponding to the threshold of 0.59), a maximum value (threshold of 0.45) and a mean value (threshold of 0.52).
