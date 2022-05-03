@@ -2,7 +2,7 @@ The dataset included in this repository provides an estimate of winter soil cove
 
 The NDVI is especially appropriate for monitoring winter soil cover because, contrary to biomass, soil cover has a linear relationship with NDVI (see **Figure 1** below). 
 
-<img src="https://github.com/BjnNowak/WinterSoilCover/blob/main/figures/Figure1.png" alt="Figure 1" width="200"/>
+<img src="https://github.com/BjnNowak/WinterSoilCover/blob/main/figures/Figure1.png" alt="Figure 1" width="500"/>
 
 
 The field was considered covered if NDVI exceeded a given threshold. Soil characteristics, such as colour or moisture, and crop residues influence NDVI measurements, especially in the early stages of crop development, when the soil is still poorly covered. In order to limit these effects, it was therefore considered that soil cover had to exceed 50% for a field to be considered as covered by vegetation. Based on the literature, this corresponds to a threshold NDVI value between 0.45 and 0.59 (Figure 1). Thus, to facilitate the sensitivity and uncertainty analyses that can be performed from this data set, three estimates of winter soil cover are given: a minimum value (corresponding to the threshold of 0.59), a maximum value (threshold of 0.45) and a mean value (threshold of 0.52).
