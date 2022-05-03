@@ -1,7 +1,7 @@
 The dataset included in this repository provides an estimate of winter soil cover before spring-sown crops at municipality level for mainland France for two years (2018 and 2019). These estimates were obtained through the monitoring of all fields with spring-sown crops, declared within the context of the European Common Agricultural Policy. For each of these fields, the soil cover rate during the winter prior to sowing spring crops was estimated from the computation of the Normalized Difference Vegetation Index (NDVI) from multi-spectral images.
 
 The NDVI is especially appropriate for monitoring winter soil cover because, contrary to biomass, soil cover has a linear relationship with NDVI (see **Figure 1** below). 
-<p align="center">
+<p align="center" text-align="center">
 <img src="https://github.com/BjnNowak/WinterSoilCover/blob/main/figures/Figure1.png" alt="Estimation of soil cover by vegetation from the Normalized Difference Vegetation Index (NDVI). Based on the literature, a 50% soil cover corresponds to a threshold NDVI value between 0.45 and 0.59." width="500"/>
 
 **Figure 1** *Estimation of soil cover by vegetation from the Normalized Difference Vegetation Index (NDVI). Based on the literature, a 50% soil cover corresponds to a threshold NDVI value between 0.45 and 0.59.*
