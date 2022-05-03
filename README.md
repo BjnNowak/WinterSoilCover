@@ -1,3 +1,5 @@
+# About this dataset
+
 The dataset included in this repository provides an estimate of winter soil cover before spring-sown crops at municipality level for mainland France for two years (2018 and 2019). These estimates were obtained through the monitoring of all fields with spring-sown crops, declared within the context of the European Common Agricultural Policy. For each of these fields, the soil cover rate during the winter prior to sowing spring crops was estimated from the computation of the Normalized Difference Vegetation Index (NDVI) from multi-spectral images.
 
 The NDVI is especially appropriate for monitoring winter soil cover because, contrary to biomass, soil cover has a linear relationship with NDVI (see **Figure 1** below). 
@@ -27,5 +29,5 @@ December was chosen as the beginning of the study period to limit the risk of de
 
 Two levels of filters were applied to remove invalid observations. First, for the study period, only the least cloudy images (20% threshold) were selected. Then, a second filter at the pixel scale was applied to remove observations identified as clouds, shadows or snow (using the Scene Classification map provided with Sentinel 2 observations).
 
-Finally, results were aggregated at the municipality level. For each crop and for each commune, the total area occupied by the crop (in hectares) is specified, as well as three estimates (also in hectares) of the area covered, corresponding to the three NDVI thresholds defined above. For each crop and municipality combination, the given year corresponds to the year of harvest of the following spring crops (e.g. the year 2019 refers to the soil cover in December 2018 and January 2019).
+Finally, results were aggregated at the municipality level. For each crop and for each municipality, the total area occupied by the crop (in hectares) is specified, as well as three estimates (also in hectares) of the area covered, corresponding to the three NDVI thresholds defined above. For each crop and municipality combination, the given year corresponds to the year of harvest of the following spring crops (e.g. the year 2019 refers to the soil cover in December 2018 and January 2019).
 
