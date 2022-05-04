@@ -5,7 +5,7 @@ The detailed description of the variables of this dataset is listed below:
 -	FOLLOWING_CROP: Translation of the CODE_CULTU code in English;
 -	TOTAL_AREA: Total area (in hectares) cultivated with this spring crop;
 -	COVERED_AREA: “Best” estimation of the area with winter cover crops before sowing this spring crop (in hectares);
--	COVERED_AREA_MIN: Minimum estimation of the area with winter cover crops before sowing this spring crop (in hectares);;
+-	COVERED_AREA_MIN: Minimum estimation of the area with winter cover crops before sowing this spring crop (in hectares);
 -	COVERED_AREA_MAX: Maximum estimation of the area with winter cover crops before sowing this spring crop (in hectares);
 -	DEP: Department number;
 -	REG: Region number.
